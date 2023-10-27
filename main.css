@@ -1,0 +1,37 @@
+table, tr, th, td, caption {
+    border: 2px solid #171212;
+    font-family:'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+h1,h2{
+    text-align: center;
+}
+
+body{
+    /*background-image: url("Movie Theatre background.jpg");*/
+    background-color: blanchedalmond;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 25px;
+    border-color: aquamarine;
+    padding: 20px;
+}
+   
+footer{
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#sai{
+    color: black;
+    margin: 10px 175px;
+    text-align: center;
+}
+img  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:hover{
+    color: tomato;
+}
